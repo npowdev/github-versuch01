@@ -1,2 +1,3 @@
-# github-versuch01
-Persönliche Versuche zu Arbeit mit Github bei PRs, Issues, Brunches, und lokalen Git und VSC
+# Github practice attempt 01
+
+Personal attempt to work with Github at PRs, Issues, Brunches, and local Git and VSC.
